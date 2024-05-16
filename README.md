@@ -1,5 +1,4 @@
 [# Ex04 Places Around Me
-## Date: 18-03-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -161,7 +160,8 @@ and thoothukudi corporation gives Rs. 60 lacks. Nowadays ECO Park is one of the 
 ~~~
 
 ## OUTPUT
-"C:\Users\swetha77\Downloads\ss ex2 2024-05-16 at 12.56.28 PM.jpeg"
+![Uploading image.png…]()
+
 
 ![Ex 3 beach](https://github.com/04Varsha/NearMe/assets/149035374/059f020e-4a77-4d4a-b82b-d3a1ac51222d)
 
