@@ -160,8 +160,6 @@ and thoothukudi corporation gives Rs. 60 lacks. Nowadays ECO Park is one of the 
 ~~~
 
 ## OUTPUT
-![Uploading image.png…]()
-
 
 ![Ex 3 beach](https://github.com/04Varsha/NearMe/assets/149035374/059f020e-4a77-4d4a-b82b-d3a1ac51222d)
 
